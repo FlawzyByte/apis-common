@@ -8,8 +8,14 @@ Security updates are applied to the latest release line maintained in this repos
 
 Please report security issues privately so we can assess and address them before wider disclosure.
 
-- Prefer [GitHub private vulnerability reporting](https://github.com/hyphae/apis-common/security/advisories/new) for this repository if it is enabled for the organization.
-- If private reporting is not available, contact the maintainers through an appropriate private channel for your organization.
+Private vulnerability reporting is not currently supported.
+
+If you discover a security issue, please disclose it responsibly by contacting the maintainers via GitHub:
+- @FlawzyByte
+- @subhramit
+- @axmsoftware
+
+You may also submit a Pull Request with the remediation and request review from one of the maintainers above.
 
 Include enough detail to reproduce the issue (affected component or class, version or commit, and steps or proof of concept when possible).
 
